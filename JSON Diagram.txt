@@ -1,0 +1,13 @@
+JSON Diagram
+├── last_profile : string
+└── profiles : object
+    └── [profile_name] : object
+        ├── 256 : keybind (string)
+        ├── 128 : keybind (string)
+        ├── 64  : keybind (string)
+        ├── 32  : keybind (string)
+        ├── 16  : keybind (string)
+        ├── 8   : keybind (string)
+        ├── 4   : keybind (string)
+        ├── 2   : keybind (string)
+        └── 1   : keybind (string)

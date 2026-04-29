@@ -1,0 +1,25 @@
+Either double click the file or run py program.py
+
+Arguments:
+
+--autoconnect         Automatically tries to connect to the controller instead of loading a menu
+--profile [profile]   Allows you to load the program with a preset profile so you don't have to do it in the profile menu
+--port [port]         Allows you to specify which COM port to run off of in case the Arduino isn't on the default COM3 port
+--baud [baud]         Allows you to specify your baud in case you would like to change the speed of reading for any reason
+
+Menu:
+
+
+Profile Menu:
+
+Allows you to create or delete profiles
+
+
+Keybind Menu:
+
+Allows you to change your keybinds for your current profile or reset to defaults
+
+
+Connect To Controller:
+
+Tries to connect to the controller using the port, baud, and profile for keybinds
